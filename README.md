@@ -1,0 +1,2 @@
+# example.game
+ai navmesh
